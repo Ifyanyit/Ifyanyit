@@ -34,10 +34,10 @@ I am an aspiring Data Scientist and an ALX Software Engineering scholar <img src
 - :telescope: I’m currently learning data Sceince(self taught) and Software Engineering at ALX Africa, where I learn frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
-
+- 👯 I’m looking to collaborate on **frontend and backend projects**
 - :zap: In my free time, read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nifeanyit)
+- I am passionate about **Data Science**
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nifeanyit) or   **ngeneifyanyi@gmail.com**
 
 ---
 
@@ -62,3 +62,5 @@ I am an aspiring Data Scientist and an ALX Software Engineering scholar <img src
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ifyanyit&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifyanyit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ifyanyit&show_icons=true&locale=en" alt="Ifyanyit" /></p>
