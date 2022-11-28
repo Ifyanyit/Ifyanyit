@@ -31,7 +31,7 @@
 ### :man_technologist: about Me:
 I am an aspiring Data Scientist and an ALX Software Engineering scholar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m currently learning data Sceince(self taught) and a Software Engineer at ALX Africa where I learn frontend and backend for building web applications.
+- :telescope: I’m currently learning data Sceince(self taught) and Software Engineering at ALX Africa, where I learn frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
