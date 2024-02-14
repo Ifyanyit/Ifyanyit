@@ -30,7 +30,7 @@
 ---
 
 ### :man_technologist: about Me:
-I am an aspiring Data Scientist and a Software Engineer.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am an aspiring Data Scientist and a Software Engineer,  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 - :telescope: I’m currently learning Data Science (self-taught) and Software Engineering, where I learn frontend and backend for building web applications.
 
