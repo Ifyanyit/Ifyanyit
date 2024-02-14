@@ -30,15 +30,15 @@
 ---
 
 ### :man_technologist: about Me:
-I am an aspiring Data Scientist and an ALX Software Engineering scholar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am an aspiring Data Scientist and a Software Engineer.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m currently learning data Sceince(self taught) and Software Engineering at ALX Africa, where I learn frontend and backend for building web applications.
+- :telescope: I’m currently learning Data Science (self-taught) and Software Engineering, where I learn frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 - 👯 I’m looking to collaborate on **frontend and backend projects**
-- :zap: In my free time, read tech articles.
+- :zap: In my free time, I read tech articles.
 - I am passionate about **Data Science**
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nifeanyit) or   **ngeneifyanyi@gmail.com**
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nifeanyit) or   **ngeneifyanyi@gmail.com**
 
 ---
 
